@@ -3,6 +3,8 @@
 ### Hi there 👋, I'm Ray Foo
 frontend developer from Malaysia
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=busyxiang&label=Profile%20views&color=0e75b6&style=flat" alt="busyxiang" /> </p>
+
 - 🌱 I’m currently learning **React, NextJS, React Native, Graphql**
 
 <h3 align="left">Languages and Tools:</h3>
