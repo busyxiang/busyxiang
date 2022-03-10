@@ -8,7 +8,7 @@ frontend developer from Malaysia
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busyxiang&show_icons=true&locale=en&layout=compact" alt="busyxiang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busyxiang&show_icons=true&locale=en" alt="busyxiang" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=busyxiang&show_icons=true&locale=en" alt="busyxiang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busyxiang&" alt="busyxiang" /></p>
 
